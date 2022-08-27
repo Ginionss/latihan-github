@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: Scaffold
-Template URL: https://bootstrapmade.com/scaffold-bootstrap-metro-style-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+File ini di buat untuk menerapkan pengetahuan tentang git dan github.
+link github file ini adalah https://github.com/Ginionss/latihan-github
